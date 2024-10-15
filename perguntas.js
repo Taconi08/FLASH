@@ -1,13 +1,13 @@
 criaCartao (
     'Suco',
-    'O suco de vocẽs é natural?',
-    'Sim, todos.'
+    'O suco de vocês é natural?',
+    'Sim.'
 
 )
 
 criaCartao (
     'Suco',
-    'Vocẽs fazem entrega',
+    'Vocês fazem entrega?',
     'Sim.'
 
 )
@@ -28,14 +28,14 @@ criaCartao (
 
 criaCartao (
     'Suco',
-    'Quanto custa o Litro?',
+    'Quanto custa o litro?',
     '1l 13,00 - 2l 24,00 - 3l 33,00 - 5l 54,00.'
 
 )
 
 criaCartao (
     'Suco',
-    'Vocẽs revendem?',
+    'Vocês vendem outras coisas?',
     'Sim.'
 
 )
